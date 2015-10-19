@@ -19,6 +19,6 @@ int main()
         else goto x;
     }
     else
-    x:    cout<<"Valores nao aceitos"<<endl;
+    x:   cout<<"Valores nao aceitos"<<endl;
     return 0;
 }
